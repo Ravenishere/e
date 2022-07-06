@@ -13,6 +13,7 @@ prefix = "#"
 #use the .env feature to hide your token
 
 token = os.getenv("TOKEN")
+token = os.getenv("e")
 
 #---------------#
 
